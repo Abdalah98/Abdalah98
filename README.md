@@ -20,6 +20,7 @@ Work Experience:
 Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification, Realtime Database),
 Network Request(alamofire), Google Map, Cocoa pods, MVP, XIB, Custom Views, XCode
 • iOS Developer | Aug. 2019 to current Freelancer.
+
 • Created My DIET HUB App
 
 • Created My QLearn App [![AppStore URL]](https://apps.apple.com/us/app/q-learn/id1530297744)
@@ -39,5 +40,6 @@ Cocoapods, MVC, XIB, Custom Views, XCode
 
 -  Of lovers swift and great love of this language  🧑🏻‍💻.
 -  everyday learn a new feature 🧑🏻‍💻.
-- 🤔 I’m looking for help to get a  job
 - ⚡ Fun fact: I love coding with swift  🧑🏻‍💻.
+- 🤔 I’m looking for help to get a job 
+
