@@ -12,13 +12,9 @@ I'm a junior iOS Developer was 1.5+ years of experience looking forward to devel
 Development skills and gain more experience to enrich my Software Career.
 I have published 3 applications in App Store
 
-Work Experience:
-
-# iOS Developer | Feb 2021 to Jun 2021 TRANSGLOBAL ELLC, Nasr City, Cairo
-- 
-• Created App Esquires Cafe
-Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification, Realtime Database),
-Network Request(alamofire), Google Map, Cocoa pods, MVP, XIB, Custom Views, XCode
+------------------------------------------------------------------------------------------
+##Work Experience:
+-------------------------
 
 # iOS Developer | Aug. 2019 to current Freelancer.
 
@@ -29,6 +25,12 @@ Network Request(alamofire), Google Map, Cocoa pods, MVP, XIB, Custom Views, XCod
 • Created My ELKhateeb App [![AppStore URL]](https://apps.apple.com/us/app/elkhateeb/id1489806912?l=ar&ls=1&fbclid=IwAR1YSRZBh4tsQ2mJEYlXIYOICQmNpSxV7YdDLM7KXYR79Fje1A3qHq3h4Wg)
 
 Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification), Network Request (URLSession, alamofire), Map Kit, Cocoapods, MVC, XIB, Custom Views, XCode
+
+# iOS Developer | Feb 2021 to Jun 2021 TRANSGLOBAL ELLC, Nasr City, Cairo
+ 
+• Created App Esquires Cafe
+Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification, Realtime Database),
+Network Request(alamofire), Google Map, Cocoa pods, MVP, XIB, Custom Views, XCode
 
 # iOS Developer | Aug. 2020. Sept 2020
 Internship ElMnassa Innovation & Development LLC.
