@@ -42,4 +42,7 @@ Cocoapods, MVC, XIB, Custom Views, XCode
 -  everyday learn a new feature 🧑🏻‍💻.
 - ⚡ Fun fact: I love coding with swift  🧑🏻‍💻.
 - 🤔 I’m looking for help to get a job 
+- 
+<hr/>
 
+ ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️ check my projects ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
