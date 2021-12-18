@@ -10,6 +10,7 @@
 
 I'm a junior iOS Developer was 1.5+ years of experience looking forward to developing my Mobile
 Development skills and gain more experience to enrich my Software Career.
+
 I have published 3 applications in App Store
 
 ------------------------------------------------------------------------------------------
