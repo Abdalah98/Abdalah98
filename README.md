@@ -12,9 +12,30 @@ I'm a junior iOS Developer was 1+ years of experience looking forward to develop
 Development skills and gain more experience to enrich my Software Career.
 I have published 3 applications in App Store
 
+Work Experience:
+
+• iOS Developer | Feb 2021 to Jun 2021 TRANSGLOBAL ELLC, Nasr City, Cairo
+• Created App Esquires Cafe
+
+Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification, Realtime Database),
+Network Request(alamofire), Google Map, Cocoa pods, MVP, XIB, Custom Views, XCode
+• iOS Developer | Aug. 2019 to current Freelancer.
+• Created My DIET HUB App
+• Created My QLearn App [![AppStore URL]](https://apps.apple.com/us/app/elkhateeb/id1489806912?l=ar&ls=1&fbclid=IwAR1YSRZBh4tsQ2mJEYlXIYOICQmNpSxV7YdDLM7KXYR79Fje1A3qHq3h4Wg)
+
+• Created My ELKhateeb App
+Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification), Network Request (URLSession, alamofire), Map Kit, Cocoapods, MVC, XIB, Custom Views, XCode
+
+• iOS Developer | Aug. 2020. Sept 2020
+Internship ElMnassa Innovation & Development LLC.
+• Created My Hire App
+Tools & Technologies: Swift, Firebase (SMS verification, Notification), Network Request (alamofire),
+Cocoapods, MVC, XIB, Custom Views, XCode
+
+
+<hr/>
+
 -  Of lovers swift and great love of this language  🧑🏻‍💻.
 -  everyday learn a new feature 🧑🏻‍💻.
 - 🤔 I’m looking for help to get a  job
 - ⚡ Fun fact: I love coding with swift  🧑🏻‍💻.
-
-<hr/>
