@@ -14,7 +14,7 @@ I have published 3 applications in App Store
 
 Work Experience:
 
-- iOS Developer | Feb 2021 to Jun 2021 TRANSGLOBAL ELLC, Nasr City, Cairo
+* iOS Developer | Feb 2021 to Jun 2021 TRANSGLOBAL ELLC, Nasr City, Cairo
 - 
 • Created App Esquires Cafe
 Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification, Realtime Database),
