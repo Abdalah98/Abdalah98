@@ -21,9 +21,9 @@ Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notific
 Network Request(alamofire), Google Map, Cocoa pods, MVP, XIB, Custom Views, XCode
 • iOS Developer | Aug. 2019 to current Freelancer.
 • Created My DIET HUB App
-• Created My QLearn App [![AppStore URL]](https://apps.apple.com/us/app/elkhateeb/id1489806912?l=ar&ls=1&fbclid=IwAR1YSRZBh4tsQ2mJEYlXIYOICQmNpSxV7YdDLM7KXYR79Fje1A3qHq3h4Wg)
+• Created My QLearn App [![AppStore URL]](https://apps.apple.com/us/app/q-learn/id1530297744)
+• Created My ELKhateeb App [![AppStore URL]](https://apps.apple.com/us/app/elkhateeb/id1489806912?l=ar&ls=1&fbclid=IwAR1YSRZBh4tsQ2mJEYlXIYOICQmNpSxV7YdDLM7KXYR79Fje1A3qHq3h4Wg)
 
-• Created My ELKhateeb App
 Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification), Network Request (URLSession, alamofire), Map Kit, Cocoapods, MVC, XIB, Custom Views, XCode
 
 • iOS Developer | Aug. 2020. Sept 2020
