@@ -14,12 +14,13 @@ I have published 3 applications in App Store
 
 Work Experience:
 
-• iOS Developer | Feb 2021 to Jun 2021 TRANSGLOBAL ELLC, Nasr City, Cairo
+- iOS Developer | Feb 2021 to Jun 2021 TRANSGLOBAL ELLC, Nasr City, Cairo
+- 
 • Created App Esquires Cafe
-
 Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification, Realtime Database),
 Network Request(alamofire), Google Map, Cocoa pods, MVP, XIB, Custom Views, XCode
-• iOS Developer | Aug. 2019 to current Freelancer.
+
+- iOS Developer | Aug. 2019 to current Freelancer.
 
 • Created My DIET HUB App
 
@@ -29,8 +30,9 @@ Network Request(alamofire), Google Map, Cocoa pods, MVP, XIB, Custom Views, XCod
 
 Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification), Network Request (URLSession, alamofire), Map Kit, Cocoapods, MVC, XIB, Custom Views, XCode
 
-• iOS Developer | Aug. 2020. Sept 2020
+- iOS Developer | Aug. 2020. Sept 2020
 Internship ElMnassa Innovation & Development LLC.
+
 • Created My Hire App
 Tools & Technologies: Swift, Firebase (SMS verification, Notification), Network Request (alamofire),
 Cocoapods, MVC, XIB, Custom Views, XCode
