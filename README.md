@@ -19,10 +19,15 @@ I have published 5 pplications in App Store
 #iOS Developer | April. 2022 to July 2022 Part-Time 
 TechZoneLabs, Cairo
 • I Worked on VODO Service App [![AppStore URL]](https://apps.apple.com/eg/app/vodo-truck/id1571030925)
+
 • I Worked on VODO Truck App  [![AppStore URL]](https://apps.apple.com/eg/app/vodo-service/id1563192922)
+
 • mplement new features.
+
 • Fixed Bugs and enhanced the App
+
 • Call API Networking
+
 • Added Firebase (SMS verification, Notification, Cloud Firestore)
 
 # iOS Developer | Aug. 2019 to current Freelancer.
