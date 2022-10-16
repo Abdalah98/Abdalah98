@@ -40,7 +40,9 @@ Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notific
 # iOS Developer | Feb 2021 to Jun 2021 TRANSGLOBAL ELLC, Nasr City, Cairo
  Full Time TRANSGLOBAL ELLC, Cairo
 • I worked on Esquires Cafe App
+
 • I worked on Trash2cash App
+
 • Implement new features.
 • Fixed Bugs and enhanced the App 
 • Call API networking
