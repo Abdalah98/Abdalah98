@@ -11,7 +11,7 @@
 I'm an iOS Developer was 1.5+ years of experience looking forward to developing my Mobile
 Development skills and gain more experience to enrich my Software Career.
 
-I have published 5 pplications in App Store
+I have published 5 qpplications in App Store
 
 ------------------------------------------------------------------------------------------
 ##Work Experience:
@@ -22,7 +22,7 @@ TechZoneLabs, Cairo
 
 • I Worked on VODO Truck App  [![AppStore URL]](https://apps.apple.com/eg/app/vodo-service/id1563192922)
 
-• mplement new features.
+• Implement new features.
 
 • Fixed Bugs and enhanced the App
 
