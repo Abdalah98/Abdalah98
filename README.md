@@ -31,23 +31,32 @@ TechZoneLabs, Cairo
 • Added Firebase (SMS verification, Notification, Cloud Firestore)
 
 # iOS Developer | Aug. 2019 to current Freelancer.
+
 • Created My DIET HUB App
+
 • Created My QLearn App [![AppStore URL]](https://apps.apple.com/us/app/q-learn/id1530297744)
+
 • Created My ELKhateeb App [![AppStore URL]](https://apps.apple.com/us/app/elkhateeb/id1489806912?l=ar&ls=1&fbclid=IwAR1YSRZBh4tsQ2mJEYlXIYOICQmNpSxV7YdDLM7KXYR79Fje1A3qHq3h4Wg)
 
 Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification), Network Request (URLSession, alamofire), Map Kit, Cocoapods, MVC, XIB, Custom Views, XCode
 
 # iOS Developer | Feb 2021 to Jun 2021 TRANSGLOBAL ELLC, Nasr City, Cairo
- Full Time TRANSGLOBAL ELLC, Cairo
+ Full Time TRANSGLOBAL ELLC, Cairo 
+ 
 • I worked on Esquires Cafe App
 
 • I worked on Trash2cash App
 
-• Implement new features.
+• Implement new features. 
+
 • Fixed Bugs and enhanced the App 
+
 • Call API networking
+
 • Added payment methods: VISA, ApplePay.
+
 • Added notification firebase
+
 • created search, home, cart, profile, and car details
 
 Tools & Technologies: Swift, Firebase (Authentication, SMS verification, Notification, Realtime Database),
@@ -55,7 +64,9 @@ Network Request(alamofire), Google Map, Cocoa pods, MVP, XIB, Custom Views, XCod
 
 # iOS Developer | Aug. 2020. Sept 2020
 Internship ElMnassa Innovation & Development LLC.
+
 • I worked in Hire App
+
 Tools & Technologies: Swift, Firebase (SMS verification, Notification), Network Request (alamofire),
 Cocoapods, MVC, XIB, Custom Views, XCode
 
