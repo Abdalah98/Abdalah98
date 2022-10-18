@@ -16,8 +16,7 @@ I have published 5 qpplications in App Store
 ------------------------------------------------------------------------------------------
 ##Work Experience:
 -------------------------
-# iOS Developer | April. 2022 to July 2022 Part-Time 
-TechZoneLabs, Cairo
+# iOS Developer | April. 2022 to July 2022 Part-Time | TechZoneLabs, Cairo
 
 • I Worked on VODO Service App [![AppStore URL]](https://apps.apple.com/eg/app/vodo-truck/id1571030925)
 
