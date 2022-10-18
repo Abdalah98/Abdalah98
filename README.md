@@ -4,7 +4,7 @@
 <p> iOS  Software Enginner </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)]([linkedin.com/in/abdallah-omar-elnikesh](https://www.linkedin.com/in/abdallah-omar-elnikesh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6Ot2oJu2QWmo59tFqscc0w%3D%3D))
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abdallah-omar-elnikesh/)
 
 ### ![information (2)](https://user-images.githubusercontent.com/41602889/146625378-ef93b978-e468-4ce1-a1eb-ac1ba7aa3aa0.png) A little more about me...  
 
