@@ -11,7 +11,7 @@
 I'm an iOS Developer was 1.5+ years of experience looking forward to developing my Mobile
 Development skills and gain more experience to enrich my Software Career.
 
-I have published 5 qpplications in App Store
+I have published 5 applications in App Store
 
 ------------------------------------------------------------------------------------------
 ##Work Experience:
