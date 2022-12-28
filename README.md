@@ -19,9 +19,12 @@ I have published 5 applications in App Store
 
 #  iOS Developer | Oct. 2022 to current | Full Time Tasheel Information Technology
 
-• I Worked on OSM-2 App [![AppStore URL](https://apps.apple.com/eg/app/osm/id1411375709)
+• I Worked on OSM-2 App [![AppStore URL] (https://apps.apple.com/eg/app/osm/id1411375709)
+
 • Implement new features.
+
 • Fixed Bugs and enhanced the App
+
 • Call API Networking
 
 # iOS Developer | April. 2022 to July 2022 Part-Time | TechZoneLabs, Cairo
@@ -40,9 +43,12 @@ I have published 5 applications in App Store
 
 # iOS Developer | Aug. 2019 to current Freelancer.
 
-• I Worked on Body Master App 
 • Created My Win Win App
+
+• I Worked on Body Master App 
+
 • Created My DIET HUB App
+
 • Created My QLearn App [![AppStore URL]](https://apps.apple.com/us/app/q-learn/id1530297744)
 
 • Created My ELKhateeb App [![AppStore URL]](https://apps.apple.com/us/app/elkhateeb/id1489806912?l=ar&ls=1&fbclid=IwAR1YSRZBh4tsQ2mJEYlXIYOICQmNpSxV7YdDLM7KXYR79Fje1A3qHq3h4Wg)
