@@ -19,7 +19,7 @@ I have published 5 applications in App Store
 
 #  iOS Developer | Oct. 2022 to current | Full Time Tasheel Information Technology
 
-• I Worked on OSM-2 App [![AppStore URL] (https://apps.apple.com/eg/app/osm/id1411375709)
+• I Worked on OSM-2 App  [![AppStore URL]](https://apps.apple.com/eg/app/osm/id1411375709)
 
 • Implement new features.
 
@@ -90,7 +90,7 @@ Cocoapods, MVC, XIB, Custom Views, XCode
 
 -  Of lovers swift and great love of this language  🧑🏻‍💻.
 -  everyday learn a new feature 🧑🏻‍💻.
-- ⚡ Fun fact: I love coding with swift  🧑🏻‍💻.
+- ⚡ Fun fact: I love coding with swift & SwiftUI 🧑🏻‍💻.
 - 🤔 I’m looking for help to get a job 
  
 <hr/>
