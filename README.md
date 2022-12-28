@@ -8,7 +8,7 @@
 
 ### ![information (2)](https://user-images.githubusercontent.com/41602889/146625378-ef93b978-e468-4ce1-a1eb-ac1ba7aa3aa0.png) A little more about me...  
 
-I'm an iOS Developer was 1.5+ years of experience looking forward to developing my Mobile
+I'm an iOS Developer was 2 years of experience looking forward to developing my Mobile
 Development skills and gain more experience to enrich my Software Career.
 
 I have published 5 applications in App Store
@@ -16,6 +16,14 @@ I have published 5 applications in App Store
 ------------------------------------------------------------------------------------------
 ##Work Experience:
 -------------------------
+
+#  iOS Developer | Oct. 2022 to current | Full Time Tasheel Information Technology
+
+• I Worked on OSM-2 App [![AppStore URL](https://apps.apple.com/eg/app/osm/id1411375709)
+• Implement new features.
+• Fixed Bugs and enhanced the App
+• Call API Networking
+
 # iOS Developer | April. 2022 to July 2022 Part-Time | TechZoneLabs, Cairo
 
 • I Worked on VODO Service App [![AppStore URL]](https://apps.apple.com/eg/app/vodo-truck/id1571030925)
@@ -32,8 +40,9 @@ I have published 5 applications in App Store
 
 # iOS Developer | Aug. 2019 to current Freelancer.
 
+• I Worked on Body Master App 
+• Created My Win Win App
 • Created My DIET HUB App
-
 • Created My QLearn App [![AppStore URL]](https://apps.apple.com/us/app/q-learn/id1530297744)
 
 • Created My ELKhateeb App [![AppStore URL]](https://apps.apple.com/us/app/elkhateeb/id1489806912?l=ar&ls=1&fbclid=IwAR1YSRZBh4tsQ2mJEYlXIYOICQmNpSxV7YdDLM7KXYR79Fje1A3qHq3h4Wg)
