@@ -16,8 +16,9 @@ I have published 5 applications in App Store
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdalah98&show_icons=true&locale=en" alt="Abdalah98" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalah98&" alt="Abdalah98" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalah98&show_icons=true&locale=en&layout=compact" alt="Abdalah988" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalah98&" alt="Abdalah98" /></p>
+
 
 
 ------------------------------------------------------------------------------------------
