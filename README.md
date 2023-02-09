@@ -20,7 +20,7 @@ I have published 5 applications in App Store
 </a> &nbsp;
 
 <a href="https://github.com/Abdalah98/Abdalah98">
-  <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sala7khaled&hide=java,html&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117" />
+  <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalah98&hide=java,html&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117" />
 </a>
 
 <br/>
