@@ -1,5 +1,4 @@
 
-# Abdallah-Omar
 <h2> Hi there, I'm Abdallah Omar! 👋</h2>
 <p> iOS  Software Enginner </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
@@ -11,8 +10,7 @@
 <div> 
  <div align="center">
   <a href="https://www.linkedin.com/in/abdallah-omar-elnikesh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallah-omar-elnikesh&label=Profile%20views&color=0e75b6&style=flat" alt="Abdalah98" /> </p>
+  <p <img src="https://komarev.com/ghpvc/?username=abdallah-omar-elnikesh&label=Profile%20views&color=0e75b6&style=flat" alt="Abdalah98" /> </p>
 </div>
   <hr>
 
