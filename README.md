@@ -15,8 +15,7 @@
 
 ### ![information (2)](https://user-images.githubusercontent.com/41602889/146625378-ef93b978-e468-4ce1-a1eb-ac1ba7aa3aa0.png) A little more about me...  
 
-I'm an iOS Developer was 2 years of experience looking forward to developing my Mobile
-Development skills and gain more experience to enrich my Software Career.
+As an experienced iOS developer with 2 years of industry experience, I have a strong foundation in developing and maintaining mobile applications for iOS. I possess expertise in Swift and Xcode development environments. With a keen eye for design and a passion for building user-friendly and intuitive applications, I have successfully developed and launched various iOS apps in the App Store. Along with strong analytical and problem-solving skills, I am an excellent team player and have the ability to work collaboratively with cross-functional teams.
 
 I have published 5 applications in App Store
 
